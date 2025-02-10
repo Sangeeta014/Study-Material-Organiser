@@ -1,0 +1,236 @@
+[
+  {
+    "resourceId": 1,
+    "subtopicId": 1,
+    "resourceName": "Basic introduction to SDLC",
+    "resourceUrl": "https://drive.google.com/file/d/1ilY61RCioKQv0zl19ZpO6K-iKEfwUi8I/view?usp=sharing"
+  },
+  {
+    "resourceId": 2,
+    "subtopicId": 2,
+    "resourceName": "Hands on session on GIT",
+    "resourceUrl": "https://drive.google.com/file/d/1skrUkPLJPByjDKkTr3MforebSIKJFrtr/view?usp=sharing"
+  },
+  {
+    "resourceId": 3,
+    "subtopicId": 3,
+    "resourceName": "Overview of REST APIs",
+    "resourceUrl": "https://drive.google.com/file/d/1G_ywuz95wNssPZwukOh_0PKp-P3hF3Sj/view?usp=sharing"
+  },
+  {
+    "resourceId": 4,
+    "subtopicId": 4,
+    "resourceName": "Install Android Studio and required SDKs.",
+    "resourceUrl": "https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2"
+  },
+  {
+    "resourceId": 5,
+    "subtopicId": 5,
+    "resourceName": "Understanding Android Fundamentals",
+    "resourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX"
+  },
+  {
+    "resourceId": 6,
+    "subtopicId": 5,
+    "resourceName": "Understanding Android Fundamentals",
+    "resourceUrl": "https://developer.android.com/guide/components/fundamentals"
+  },
+  {
+    "resourceId": 7,
+    "subtopicId": 6,
+    "resourceName": "Activities & the Activity Lifecycle",
+    "resourceUrl": "https://www.youtube.com/watch?v=SJw3Nu_h8kk"
+  },
+  {
+    "resourceId": 8,
+    "subtopicId": 6,
+    "resourceName": "Activities & the Activity Lifecycle",
+    "resourceUrl": "https://developer.android.com/guide/components/activities/activity-lifecycle"
+  },
+  {
+    "resourceId": 9,
+    "subtopicId": 7,
+    "resourceName": "Understand project structure and the Android manifest file.",
+    "resourceUrl": "https://developer.android.com/guide/topics/manifest/manifest-intro"
+  },
+  {
+    "resourceId": 10,
+    "subtopicId": 8,
+    "resourceName": "Learn Kotlin basics (variables, control flow, functions, classes, OOP, etc).",
+    "resourceUrl": "https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1"
+  },
+  {
+    "resourceId": 11,
+    "subtopicId": 9,
+    "resourceName": "Fundamentals of Kotlin, object-oriented programming, and lambdas.",
+    "resourceUrl": "https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-1"
+  },
+  {
+    "resourceId": 12,
+    "subtopicId": 9,
+    "resourceName": "Fundamentals of Kotlin, object-oriented programming, and lambdas.",
+    "resourceUrl": "https://kotlinlang.org/docs/numbers.html"
+  },
+  {
+    "resourceId": 13,
+    "subtopicId": 10,
+    "resourceName": "Jetpack Compose basics",
+    "resourceUrl": "https://developer.android.com/codelabs/jetpack-compose-basics#0"
+  },
+  {
+    "resourceId": 14,
+    "subtopicId": 11,
+    "resourceName": "Compose essentials and state",
+    "resourceUrl": "https://developer.android.com/courses/jetpack-compose/course"
+  },
+  {
+    "resourceId": 15,
+    "subtopicId": 12,
+    "resourceName": "Create your first basic app.",
+    "resourceUrl": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0"
+  },
+  {
+    "resourceId": 16,
+    "subtopicId": 13,
+    "resourceName": "Understand Compose layouts (Box, Column, Row).",
+    "resourceUrl": "https://developer.android.com/develop/ui/compose/layouts"
+  },
+  {
+    "resourceId": 17,
+    "subtopicId": 14,
+    "resourceName": "Use Modifiers for alignment, padding, and spacing.",
+    "resourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC"
+  },
+  {
+    "resourceId": 18,
+    "subtopicId": 15,
+    "resourceName": "Use Modifiers for alignment, padding, and spacing.",
+    "resourceUrl": "https://developer.android.com/develop/ui/compose/lists"
+  },
+  {
+    "resourceId": 19,
+    "subtopicId": 16,
+    "resourceName": "Compose Lifecycle",
+    "resourceUrl": "https://developer.android.com/develop/ui/compose/lifecycle"
+  },
+  {
+    "resourceId": 20,
+    "subtopicId": 17,
+    "resourceName": "Side Effects in compose",
+    "resourceUrl": "https://www.youtube.com/watch?v=gxWcfz3V2QE&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=10"
+  },
+  {
+    "resourceId": 21,
+    "subtopicId": 17,
+    "resourceName": "Side Effects in compose",
+    "resourceUrl": "https://developer.android.com/develop/ui/compose/side-effects"
+  },
+  {
+    "resourceId": 22,
+    "subtopicId": 18,
+    "resourceName": "State in Compose",
+    "resourceUrl": "https://www.youtube.com/watch?v=s3m1PSd7VWc&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=6"
+  },
+  {
+    "resourceId": 23,
+    "subtopicId": 18,
+    "resourceName": "State in Compose",
+    "resourceUrl": "https://developer.android.com/develop/ui/compose/state"
+  },
+  {
+    "resourceId": 24,
+    "subtopicId": 19,
+    "resourceName": "Viewmodel Architecture",
+    "resourceUrl": "https://www.youtube.com/watch?v=9sqvBydNJSg"
+  },
+  {
+    "resourceId": 25,
+    "subtopicId": 19,
+    "resourceName": "Viewmodel Architecture",
+    "resourceUrl": "https://developer.android.com/topic/libraries/architecture/viewmodel"
+  },
+  {
+    "resourceId": 26,
+    "subtopicId": 20,
+    "resourceName": "Handle Viewmodels",
+    "resourceUrl": "https://proandroiddev.com/how-to-handle-viewmodel-one-time-events-in-jetpack-compose-a01af0678b76"
+  },
+  {
+    "resourceId": 27,
+    "subtopicId": 21,
+    "resourceName": "Coroutines basics",
+    "resourceUrl": "https://www.youtube.com/playlist?list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_"
+  },
+  {
+    "resourceId": 28,
+    "subtopicId": 21,
+    "resourceName": "Coroutines basics",
+    "resourceUrl": "https://kotlinlang.org/docs/coroutines-basics.html"
+  },
+  {
+    "resourceId": 29,
+    "subtopicId": 22,
+    "resourceName": "Cancellations and timeout",
+    "resourceUrl": "https://kotlinlang.org/docs/cancellation-and-timeouts.html#run-non-cancellable-block"
+  },
+  {
+    "resourceId": 30,
+    "subtopicId": 23,
+    "resourceName": "Compose suspending functions",
+    "resourceUrl": "https://kotlinlang.org/docs/composing-suspending-functions.html"
+  },
+  {
+    "resourceId": 31,
+    "subtopicId": 24,
+    "resourceName": "Coroutines context and dispatcher",
+    "resourceUrl": "https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html#thread-local-data"
+  },
+  {
+    "resourceId": 32,
+    "subtopicId": 25,
+    "resourceName": "Basic navigation understanding",
+    "resourceUrl": "https://composedestinations.rafaelcosta.xyz/"
+  },
+  {
+    "resourceId": 33,
+    "subtopicId": 25,
+    "resourceName": "Basic navigation understanding",
+    "resourceUrl": "https://www.youtube.com/watch?v=Q3iZyW2etm4"
+  },
+  {
+    "resourceId": 34,
+    "subtopicId": 26,
+    "resourceName": "Data storage in pref store",
+    "resourceUrl": "https://developer.android.com/topic/libraries/architecture/datastore"
+  },
+  {
+    "resourceId": 35,
+    "subtopicId": 26,
+    "resourceName": "Data storage in pref store",
+    "resourceUrl": "https://www.youtube.com/watch?v=McnVx7l5awk"
+  },
+  {
+    "resourceId": 36,
+    "subtopicId": 27,
+    "resourceName": "Room DB fundamentals",
+    "resourceUrl": "https://www.youtube.com/watch?v=bOd3wO0uFr8"
+  },
+  {
+    "resourceId": 37,
+    "subtopicId": 28,
+    "resourceName": "Retrofit understanding",
+    "resourceUrl": "https://www.youtube.com/watch?v=t6Sql3WMAnk&t=1072s"
+  },
+  {
+    "resourceId": 38,
+    "subtopicId": 29,
+    "resourceName": "Clients fundamentals like okhhtp",
+    "resourceUrl": "https://daily.dev/blog/retrofit-tutorial-for-android-beginners"
+  },
+  {
+    "resourceId": 39,
+    "subtopicId": 30,
+    "resourceName": "Interceptors basic",
+    "resourceUrl": "https://www.digitalocean.com/community/tutorials/retrofit-android-example-tutorial"
+  }
+]

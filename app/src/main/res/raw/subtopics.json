@@ -1,0 +1,182 @@
+[
+  {
+    "subtopicId": 1,
+    "topicId": 1,
+    "subtopicName": "Basic introduction to SDLC",
+    "isRead": false
+  },
+  {
+    "subtopicId": 2,
+    "topicId": 1,
+    "subtopicName": "Hands on session on GIT",
+    "isRead": false
+  },
+  {
+    "subtopicId": 3,
+    "topicId": 1,
+    "subtopicName": "Overview of REST APIs",
+    "isRead": false
+  },
+  {
+    "subtopicId": 4,
+    "topicId": 2,
+    "subtopicName": "Install Android Studio and required SDKs.",
+    "isRead": false
+  },
+  {
+    "subtopicId": 5,
+    "topicId": 2,
+    "subtopicName": "Understanding Android Fundamentals",
+    "isRead": false
+  },
+  {
+    "subtopicId": 6,
+    "topicId": 2,
+    "subtopicName": "Activities & the Activity Lifecycle",
+    "isRead": false
+  },
+  {
+    "subtopicId": 7,
+    "topicId": 3,
+    "subtopicName": "Understand project structure and the Android manifest file.",
+    "isRead": false
+  },
+  {
+    "subtopicId": 8,
+    "topicId": 3,
+    "subtopicName": "Learn Kotlin basics (variables, control flow, functions, classes, OOP, etc).",
+    "isRead": false
+  },
+  {
+    "subtopicId": 9,
+    "topicId": 3,
+    "subtopicName": "Fundamentals of Kotlin, object-oriented programming, and lambdas.",
+    "isRead": false
+  },
+  {
+    "subtopicId": 10,
+    "topicId": 4,
+    "subtopicName": "Jetpack Compose basics",
+    "isRead": false
+  },
+  {
+    "subtopicId": 11,
+    "topicId": 4,
+    "subtopicName": "Compose essentials and state",
+    "isRead": false
+  },
+  {
+    "subtopicId": 12,
+    "topicId": 4,
+    "subtopicName": "Create your first basic app.",
+    "isRead": false
+  },
+  {
+    "subtopicId": 13,
+    "topicId": 5,
+    "subtopicName": "Understand Compose layouts (Box, Column, Row).",
+    "isRead": false
+  },
+  {
+    "subtopicId": 14,
+    "topicId": 5,
+    "subtopicName": "Use Modifiers for alignment, padding, and spacing.",
+    "isRead": false
+  },
+  {
+    "subtopicId": 15,
+    "topicId": 5,
+    "subtopicName": "List, button, text, Layouts",
+    "isRead": false
+  },
+  {
+    "subtopicId": 16,
+    "topicId": 6,
+    "subtopicName": "Compose Lifecycle",
+    "isRead": false
+  },
+  {
+    "subtopicId": 17,
+    "topicId": 6,
+    "subtopicName": "Side Effects in compose",
+    "isRead": false
+  },
+  {
+    "subtopicId": 18,
+    "topicId": 6,
+    "subtopicName": "State in Compose",
+    "isRead": false
+  },
+  {
+    "subtopicId": 19,
+    "topicId": 7,
+    "subtopicName": "Viewmodel Architecture",
+    "isRead": false
+  },
+  {
+    "subtopicId": 20,
+    "topicId": 7,
+    "subtopicName": "Handle Viewmodels",
+    "isRead": false
+  },
+  {
+    "subtopicId": 21,
+    "topicId": 8,
+    "subtopicName": "Coroutines basics",
+    "isRead": false
+  },
+  {
+    "subtopicId": 22,
+    "topicId": 8,
+    "subtopicName": "Cancellations and timeout",
+    "isRead": false
+  },
+  {
+    "subtopicId": 23,
+    "topicId": 8,
+    "subtopicName": "Compose suspending functions",
+    "isRead": false
+  },
+  {
+    "subtopicId": 24,
+    "topicId": 8,
+    "subtopicName": "Coroutines context and dispatcher",
+    "isRead": false
+  },
+  {
+    "subtopicId": 25,
+    "topicId": 9,
+    "subtopicName": "Basic Navigation Understanding",
+    "isRead": false
+  },
+  {
+    "subtopicId": 26,
+    "topicId": 10,
+    "subtopicName": "Data storage in Preference Store",
+    "isRead": false
+  },
+  {
+    "subtopicId": 27,
+    "topicId": 10,
+    "subtopicName": "Room DB fundamentals",
+    "isRead": false
+  },
+  {
+    "subtopicId": 28,
+    "topicId": 10,
+    "subtopicName": "Retrofit Understanding",
+    "isRead": false
+  },
+  {
+    "subtopicId": 29,
+    "topicId": 10,
+    "subtopicName": "Clients fundamentals-okhttp",
+    "isRead": false
+  },
+  {
+    "subtopicId": 30,
+    "topicId": 10,
+    "subtopicName": "Interceptors Basic",
+    "isRead": false
+  }
+]

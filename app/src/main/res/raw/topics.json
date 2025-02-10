@@ -1,0 +1,42 @@
+[
+  {
+    "topicId": 1,
+    "topicName": "Introduction"
+  },
+  {
+    "topicId": 2,
+    "topicName": "Android Fundamentals"
+  },
+  {
+    "topicId": 3,
+    "topicName": "Kotlin Fundamentals"
+  },
+  {
+    "topicId": 4,
+    "topicName": "Jetpack Compose Basics"
+  },
+  {
+    "topicId": 5,
+    "topicName": "Compose UI Fundamentals"
+  },
+  {
+    "topicId": 6,
+    "topicName": "Compose Lifecycle & State"
+  },
+  {
+    "topicId": 7,
+    "topicName": "ViewModel In Compose"
+  },
+  {
+    "topicId": 8,
+    "topicName": "Kotlin Advanced Topics"
+  },
+  {
+    "topicId": 9,
+    "topicName": "Navigation"
+  },
+  {
+    "topicId": 10,
+    "topicName": "Data Storage & Network Fundamentals"
+  }
+]
